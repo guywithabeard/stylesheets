@@ -951,53 +951,55 @@ ul.potato-menu ul.potato-menu-group a {
   width: 140px;
   padding: 0 10px !important;
 }
-
-li.potato-menu-has-vertical:nth-of-type(1) a {
+li.potato-menu-item:hover ul.potato-menu-group {
+  display: block;
+}
+li.potato-menu-item:nth-of-type(1) a {
   background: #0d5968;
 }
-li.potato-menu-has-vertical:nth-of-type(1) .potato-menu-group .potato-menu-item a:hover {
+li.potato-menu-item:nth-of-type(1) .potato-menu-group .potato-menu-item a:hover {
   background: #0b4a57;
 }
 
-li.potato-menu-has-vertical:nth-of-type(2) a {
+li.potato-menu-item:nth-of-type(2) a {
   background: #20717c;
 }
-li.potato-menu-has-vertical:nth-of-type(2) .potato-menu-group .potato-menu-item a:hover {
+li.potato-menu-item:nth-of-type(2) .potato-menu-group .potato-menu-item a:hover {
   background: #1c606a;
 }
 
-li.potato-menu-has-vertical:nth-of-type(3) a {
+li.potato-menu-item:nth-of-type(3) a {
   background: #1d818e;
 }
-li.potato-menu-has-vertical:nth-of-type(3) .potato-menu-group .potato-menu-item a:hover {
+li.potato-menu-item:nth-of-type(3) .potato-menu-group .potato-menu-item a:hover {
   background: #1b6873;
 }
 
-li.potato-menu-has-vertical:nth-of-type(4) a {
+li.potato-menu-item:nth-of-type(4) a {
   background: #3eaca7;
 }
-li.potato-menu-has-vertical:nth-of-type(4) .potato-menu-group .potato-menu-item a:hover {
+li.potato-menu-item:nth-of-type(4) .potato-menu-group .potato-menu-item a:hover {
   background: #318f92;
 }
 
-li.potato-menu-has-vertical:nth-of-type(5) a {
+li.potato-menu-item:nth-of-type(5) a {
   background: #47bc97;
 }
-li.potato-menu-has-vertical:nth-of-type(5) .potato-menu-group .potato-menu-item a:hover {
+li.potato-menu-item:nth-of-type(5) .potato-menu-group .potato-menu-item a:hover {
   background: #329f93;
 }
 
-li.potato-menu-has-vertical:nth-of-type(6) a {
+li.potato-menu-item:nth-of-type(6) a {
   background: #74c796;
 }
-li.potato-menu-has-vertical:nth-of-type(6) .potato-menu-group .potato-menu-item a:hover {
+li.potato-menu-item:nth-of-type(6) .potato-menu-group .potato-menu-item a:hover {
   background: #5abaa0;
 }
 
-li.potato-menu-has-vertical:nth-of-type(7) a {
+li.potato-menu-item:nth-of-type(7) a {
   background: #91d09f;
 }
-li.potato-menu-has-vertical:nth-of-type(7) .potato-menu-group .potato-menu-item a:hover {
+li.potato-menu-item:nth-of-type(7) .potato-menu-group .potato-menu-item a:hover {
   background: #6cc79b;
 }
 
